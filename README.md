@@ -42,3 +42,7 @@ Enjoy playing and learning about isomers!
 <img src="isomers-game-3.jpg" alt="Game view">
 
 <img src="isomers-game-4.jpg" alt="Game view">
+
+## Also available for Android devices
+
+<a href="https://play.google.com/store/apps/details?id=com.vehave.isomers" target="_blank"><img src="PlayStore.jpg" alt="Get it on Google Play"></a>
